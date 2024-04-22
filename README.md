@@ -26,6 +26,7 @@
 ### 5.3 Improve ResNet50 with Random-Erasing and Compare the accuracies of 2 ResNet50 models on validation dataset
 ### 5.4 Use the trained model to run inference and show the predicted class label
 
+![image](2222.png)
 
 
 
