@@ -6,8 +6,8 @@
 
 # 大綱介紹
 >1. Hough Circle Transform 		 
->>1.1 Draw Contour
->>1.2 Count Rings
+  >>1.1 Draw Contour
+  >>1.2 Count Rings
 >2. Histogram Equalization
 >3. Morphology Operation 
 >>3.1 Closing
